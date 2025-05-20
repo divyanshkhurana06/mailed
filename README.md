@@ -43,4 +43,4 @@ The extension is built using:
 
 ## License
 
-MIT License 
+MIT License
